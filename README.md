@@ -1,0 +1,1 @@
+Practicing HTML by creating a simple recipe website (Odin Project assignment)
